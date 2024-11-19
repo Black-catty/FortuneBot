@@ -1,0 +1,3 @@
+module Fortunebot
+
+go 1.23.3
